@@ -1,1 +1,0 @@
-what the script does is that I'm telling the "#!" to interpret the command using "bash" which is located inside the "bin" folder. An with the command "pwd", I'm telling it to print the absolute path.
