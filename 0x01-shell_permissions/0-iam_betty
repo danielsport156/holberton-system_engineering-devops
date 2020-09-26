@@ -1,3 +1,2 @@
 #!/bin/bash
-su -s 1000 Betty
-'\n'
+su -s 1000 Betty '\n'
